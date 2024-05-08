@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/Radhakrishnan-R/3column-preview-card-component-fm
+- Live Site URL: https://radhakrishnan-r.github.io/3column-preview-card-component-fm/
 
 ## My process
 
